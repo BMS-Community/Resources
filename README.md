@@ -109,7 +109,7 @@ Lists most other BMS players, sorted by year of release. (Japanese)
 A website where you can search for BMS songs and get information about them.
 
 ### [BMSeeker](https://github.com/SayakaIsBaka/BeMusicSeeker-installer)
-A very useful program with many features. You can use it to add tables in Lunatic Rave 2, remove duplicates in your BMS library, install sabuns automatically, fix songs with wrong encoding or even use it as a music player. This link is a mirrored version with some edits (such as the default table list) as the official version is not available anymore.
+A very useful program with many features. You can use it to add tables in Lunatic Rave 2, remove duplicates in your BMS library, install sabuns automatically, fix songs with wrong encoding or even use it as a music player. This link is a mirrored version with some edits (such as the default table list) as the official version is not available anymore. The guide can be found [here](https://docs.google.com/presentation/d/1RrA3_hxXv5Czr1mKs7vdrjLMAGhPb5pTGoJwD3LZ-AQ/htmlpresent).
 
 ### [LR2 Internet Ranking (LR2IR)](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi)
 Lunatic Rave 2's Internet Ranking (IR) server. You can add rivals, look for charts and look at rankings for specific charts there.
