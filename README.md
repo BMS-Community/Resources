@@ -214,7 +214,8 @@ A tool to merge and rename duplicate BMS songs.
 ### Lunatic Rave 2 only
 * [Overjoy](http://lr2.sakura.ne.jp/overjoy.php)
 * [Insane 1](http://nekokan.dyndns.info/~lobsak/genocide/insane.html)
-  
+* [DARKSABUN's List of Tables (used by the BMSeeker mirror)](https://darksabun.github.io/table/tablelist.html)
+
 ### Lunatic Rave 2 / beatoraja
 * [Normal 1](https://darksabun.github.io/table/archive/normal1/)
 * [Normal 2](http://rattoto10.jounin.jp/table.html)
@@ -231,7 +232,6 @@ A tool to merge and rename duplicate BMS songs.
 * [LN Table](http://flowermaster.web.fc2.com/lrnanido/gla/LN.html)
 * [PMS Normal](http://pmsdifficulty.xxxxxxxx.jp/PMSdifficulty.html)
 * [PMS Insane](http://stellawingroad.web.fc2.com/new/pms.html)
-* [DARKSABUN's List of Tables (used by the BMSeeker mirror)](https://darksabun.github.io/table/tablelist.html)
 
 ### beatoraja only
 * [24K Table](https://excln.github.io/table24k/table.html)
