@@ -189,6 +189,7 @@ A tool to merge and rename duplicate BMS songs.
 * [OVERACTiVE DX3](https://overactive.nobody.jp/bms_skin/dx3/index.html)
 * [Fivemania: The Return (5/10k skin)](https://overactive.nobody.jp/bms_skin/fivemania_tr/index.html)
 * [LightPop (PMS skin)](https://overactive.nobody.jp/bms_skin/lightpop/index.html)
+* [EZ2LR (EZ2DJ based skin)](http://www1.axfc.net/uploader/so/3003469)
 
 ### beatoraja
 * [Brook](https://drive.google.com/file/d/1ei0w7_gMkZ7TU9q79WkQ5RPnTIbhWbOk/view)
