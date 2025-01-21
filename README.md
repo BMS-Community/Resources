@@ -317,7 +317,7 @@ A tool to merge and rename duplicate BMS songs.
 * [BMS uploader Mirror (alternative)](https://mirror.lovelyrad.io)
 * [Overjoy Songs and Sabuns](https://onedrive.live.com/?id=40805CD20B6241C6%211913&cid=40805CD20B6241C6)
 * [Pack for almost every 24K BMS in the 24K table](https://drive.google.com/file/d/1HoLuCcZ6gzxjofM8Rw-INQxp0EhE1oFY/view)
-* [24K/48K Tables Pack](https://www.dropbox.com/s/3pf71eaxg4ald0p/24keys.7z?dl=0)
+* [24K/48K Tables Pack](https://drive.google.com/file/d/1DeLscVBbHWiqLODhpBt39BIy7GMXPAVc/view)
 * [BMS Sabun Uploader](http://gnqg.rosx.net/upload/)
 * [Unofficial Stella Package (updated weekly)](https://pastebin.com/9GfkuLWM)
 * [Unofficial Satellite Package (updated weekly)](https://pastebin.com/L2fcu8MR)
